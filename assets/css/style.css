@@ -1,0 +1,13 @@
+body {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 16px;
+}
+
+
+.container{
+    margin:10px;
+}
+
+#items{
+    list-style: none;
+}
