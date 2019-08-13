@@ -5,7 +5,7 @@ The following game utilizes the use of functions, arrays and conditionals. The u
 
 The use of an alert is shown by displaying a pop-up alert letting the user know when the game is over with the message, "Game Over!"
 
-<img src="./assets/assets/images/psychic.jpg"></img>
+<img src="assets/assets/images/psychic.jpg"></img>
 
 Some improvements for the future:
   - Styling of page
